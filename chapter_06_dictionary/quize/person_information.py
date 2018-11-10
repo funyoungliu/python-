@@ -1,0 +1,21 @@
+person1={
+    'first_name':'funyoungliu',
+    'last_name':'liufangyan',
+    'age':24,
+    'city':'beijing',
+    }
+person2={
+    'first_name':'lichao',
+    'last_name':'lijinchao',
+    'age':24,
+    'city':'beijing',
+    }
+person3={
+    'first_name':'lijin',
+    'last_name':'lijinchao',
+    'age':24,
+    'city':'beijing',
+    }
+persons=[person1,person2,person3]
+for person in persons:
+    print(person)
