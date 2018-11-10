@@ -1,0 +1,12 @@
+a=3
+b=5
+print(a+b)
+c=10
+d=2
+print(c-d)
+e=2
+f=4
+print(e*f)
+g=16
+h=2
+print(g/h)
